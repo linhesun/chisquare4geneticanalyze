@@ -4,7 +4,9 @@ It's just for training of a starter like me. I don't think anyone will use it.
 
 ## Usage
 
-
+$$
+χ_c^2=\sum_i\frac{( | O i - E i | - 0.5 )^2}{E i}
+$$
 
 ```shell
 Rscript kafang.r filename1 filename2 ... filenameX
