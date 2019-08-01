@@ -5,7 +5,7 @@ It's just for training of a starter like me. I don't think anyone will use it.
 ## Usage
 
 $$
-χ_c^2=\sum_i\frac{( | O i - E i | - 0.5 )^2}{E i}
+χ_c^2=\sum_i\frac{( | O_i - E_i | - 0.5 )^2}{E_i}
 $$
 
 ```shell
